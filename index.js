@@ -3,15 +3,15 @@
 
 // #### Exercise 10
 // Ask the user for 3 cards. If the sum equals 21 print BLACKJACK! If the sum is greater than 21 print BUST! If the sum is less than 21 print “The total is [TOTAL]”
-//
+
 // alert("Pick 3 cards!");
 // var cardDeck1 =parseInt( prompt("First Card!"));
 // var cardDeck2 = parseInt(prompt("Second card!"));
 // var cardDeck3 = parseInt(prompt("Third card!"));
 // var total = cardDeck1+cardDeck2+cardDeck3;
-//
+
 // alert(total);
-//
+
 // if (total===21)
 //  {
 //      alert("Backjack!");
@@ -27,22 +27,22 @@
 // Ask the user to enter their grade. Print their letter grade:
 //     A 90 - 100 B 80 - 89 C 70 - 79 D 60 - 69 F 0 - 59
 
-//
+
 // var gradeN = parseInt(prompt("Please enter your grade"));
 // var scoreA =
 // var scoreC =
 // var scoreD =
 // var scoreF =
 // var scoreB =
-//
-//
+
+
 // if(gradeN === scoreA)
 //     (gradeN === scoreA)
 //     (gradeN === scoreA)
 //     (gradeN === scoreA)
-//
-//
-//
+
+
+
 
 
 

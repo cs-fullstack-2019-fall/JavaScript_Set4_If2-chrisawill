@@ -1,4 +1,8 @@
 # JavaScript_Classwork4_If2
+
+Great Work! Exercise 12 complete.
+Score : 5 points 
+
 ### Create a new file for each exercise
 
 #### Exercise 10
